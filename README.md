@@ -4,4 +4,4 @@
    - ### Source Tree is [Present Here](https://github.com/Wi-nnie/android_kernel_acer_b1-770/tree/android-5.0)
    - :+1:
      - ```© Col-serra ```
-       [Telegram](t.me/col_serra)
+       [Telegram](https://t.me/col_serra)
